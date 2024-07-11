@@ -16,6 +16,10 @@ This application visualizes sorting algorithms with the help of colours which ma
 * **Size of Array**<br/>The size of the array can also be changed. If the size is small, then the width of the bars will be large.
 * **Generate New Array**<br/>New random array can be generated.<br/>
 *When an algorithm starts, all these buttons are disabled so that it does not affect the implementation of the current algorithm.*<br/>
-* **Time and Space Complexities**<br/>The best, average and worst case time complexities as well as the space complexity of the algorithm running is displayed.
+* **Time and Space Complexities**<br/>
+The best, average and worst case time complexities as well as the space complexity of the algorithm running is displayed.
 <br/><br/>
 ### Before Sorting:
+![image1](https://github.com/Priyanshii1511/Sorting-Visualizer/assets/147601044/880f6dbc-eb46-4b79-a1c5-b4014c5ef726)
+### After Sorting:
+![image2](https://github.com/Priyanshii1511/Sorting-Visualizer/assets/147601044/e90c5cf6-d3b5-47a7-8f24-c51617cf92bc)
