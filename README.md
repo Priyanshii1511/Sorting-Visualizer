@@ -1,18 +1,18 @@
 Sorting refers to arranging the elements of an array or list in an ordered sequence.<br/>
-#Sorting Visualizer<br/>
+# Sorting Visualizer<br/>
 This application visualizes sorting algorithms with the help of colours which makes it easy to understand them. <br/>The algorithms implemented are:
 1. Bubble Sort
 2. Selection Sort
 3. Insertion Sort
 4. Merge Sort
 5. Quick Sort
-6. Heap Sort
+6. Heap Sort<br/><br/>
 Four colours have been used to showcase different steps being executed in the algorithm. the colours are:
 1. Blue: default<br/>It represents the default array which has to be sorted or the original positions of the array elements.
 2. Yellow: comparison<br/>It represents the phase in which that array element is being compared.
 3. Red: incorrect<br/>It represents the incorrect position of the element from which it has to be moved.
-4. Green: correct<br/>It represents the correct and final position of an array element.
-#Other features:
+4. Green: correct<br/>It represents the correct and final position of an array element.<br/><br/>
+## Other features:
 * **Speed of Algorithm**<br/>The speed of the algorithm can be altered. There are 5 speed levels (1 to 5) and by default it will be at 4.
 * **Size of Array**<br/>The size of the array can also be changed. If the size is small, then the width of the bars will be large.
 * **Generate New Array**<br/>New random array can be generated.<br/>
