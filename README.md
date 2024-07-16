@@ -1,6 +1,6 @@
 Sorting refers to arranging the elements of an array or list in an ordered sequence.<br/>
 # Sorting Visualizer<br/>
-This application visualizes sorting algorithms with the help of colours which makes it easy to understand them. <br/>The algorithms implemented are:
+This application visualizes sorting algorithms with the help of colours which makes it easy to understand them. <br/>The live app is here: https://priyanshii1511.github.io/Sorting-Visualizer/ </br>The algorithms implemented are:
 1. Bubble Sort
 2. Selection Sort
 3. Insertion Sort
